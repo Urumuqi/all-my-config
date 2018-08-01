@@ -1,6 +1,6 @@
 ## Kafka Topic 常量定义
 
-* const int32_t RdKafka::Topic::PARTITION_UA = -1
+- const int32_t RdKafka::Topic::PARTITION_UA = -1
 ```en
 Unassigned partition.
 
