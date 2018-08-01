@@ -11,6 +11,7 @@
 - maven
 - Golang
 - Python
+- Kafka
 
 ## 笔记
 - 问题以及解决办法记录
