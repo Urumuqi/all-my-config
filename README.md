@@ -1,8 +1,8 @@
-# 该项目记录了我个人的学习过程
+# Author
     @author     wq
-    @mail      yuri1308960477@gmail.com
+    @mail       wuqi226@gmail.com
 
-## 计算机配置，环境配置
+# Config
 - ubuntu
 - PHP
 - vim
