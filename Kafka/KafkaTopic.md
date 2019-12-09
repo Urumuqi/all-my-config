@@ -9,7 +9,7 @@ The unassigned partition is used by the producer API for messages that should be
 
 ```cn
 未分配的分区
-bala ~~~~~
+bala
 ```
 
 * const int64_t RdKafka::Topic::OFFSET_BEGINNING = -2
