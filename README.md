@@ -3,6 +3,7 @@
     @mail       wuqi226@gmail.com
 
 # Config
+
 - ubuntu
 - PHP
 - vim
